@@ -8,8 +8,7 @@
 
 ## About me
 
-Hi, I am [**Mukesh Yadav**], I have mentored many developers, and their efforts landed them high-paying tech jobs, helped many tech companies in solving their unique problems, and created many open-source libraries being used by top companies. I am passionate about sharing knowledge through open-source, blogs, and videos.
-
+Hi, I am Mukesh Yadav i'm currently SDE in MNC shifted from java to kotlin and thought of sharing this cheatsheet hope you find it useful and star the repo❤️
 
 
 ## Print to Console
