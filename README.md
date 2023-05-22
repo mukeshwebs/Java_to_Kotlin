@@ -38,8 +38,8 @@ final String name = "Mukesh Yadav";
 > Kotlin
 
 ```kotlin
-var name = "Amit Shekhar"
-val name = "Amit Shekhar"
+var name = "Mukesh Yadav"
+val name = "Mukesh Yadav"
 ```
 
 ---
