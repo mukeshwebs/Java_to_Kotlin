@@ -16,15 +16,15 @@ Hi, I am [**Mukesh Yadav**], I have mentored many developers, and their efforts 
 > Java
 
 ```java
-System.out.print("Amit Shekhar");
-System.out.println("Amit Shekhar");
+System.out.print("Mukesh Yadav");
+System.out.println("Mukesh Yadav");
 ```
 
 > Kotlin
 
 ```kotlin
-print("Amit Shekhar")
-println("Amit Shekhar")
+print("Mukesh Yadav")
+println("Mukesh Yadav")
 ```
 
 ---
@@ -32,8 +32,8 @@ println("Amit Shekhar")
 > Java
 
 ```java
-String name = "Amit Shekhar";
-final String name = "Amit Shekhar";
+String name = "Mukesh Yadav";
+final String name = "Mukesh Yadav";
 ```
 
 > Kotlin
