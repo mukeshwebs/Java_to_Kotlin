@@ -58,7 +58,7 @@ otherName = null;
 var otherName : String?
 otherName = null
 
-The line var otherName: String? declares a variable named otherName of type String?. The question mark (?) in the type String? denotes that the variable can hold a nullable value, meaning it can either hold a valid String value or a special value null to indicate the absence of a value.
+//The line var otherName: String? declares a variable named otherName of type String?. The question mark (?) in the type String? denotes that the variable can hold a nullable value, meaning it can either hold a valid String value or a special value null to indicate the absence of a value.
 ```
 
 ---
